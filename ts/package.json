@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@tensorflow/tfjs": "^0.12.4",
+    "vega-embed": "^3.18.2",
     "vue": "^2.5.17"
   },
   "devDependencies": {
